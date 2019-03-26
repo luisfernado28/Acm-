@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int moin() {
     // lines for faster reading
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
