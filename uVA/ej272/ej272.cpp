@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main() {
+int mwin() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     string linea;

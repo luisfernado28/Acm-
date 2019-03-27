@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main() {
+int mein() {
     // lines for faster reading
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
