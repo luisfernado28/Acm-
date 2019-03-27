@@ -3,4 +3,4 @@ project(ProyectoUVA)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ProyectoUVA main.cpp uVA/ej272/ej272.cpp uVA/ej11498/11498.cpp)
+add_executable(ProyectoUVA main.cpp uVA/ej272/ej272.cpp uVA/ej11498/11498.cpp uVA/ej10963/ej10963.cpp)
