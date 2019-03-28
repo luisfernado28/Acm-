@@ -10,7 +10,7 @@ using namespace std;
 int main10963() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int cases,columns, north, south;;
+    int cases, columns, north, south;;
     cin >> cases;
     for (int i = 0; i < cases; ++i) {
         bool canbeclosed = true;
